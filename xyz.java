@@ -7,14 +7,12 @@ public class xyz
    
   }
  public void setX()
- {
+  {
   
   }
   public INT getX()
- {
+  {
     return x;
   }
-
-
 
 }
